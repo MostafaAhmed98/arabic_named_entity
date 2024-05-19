@@ -1,4 +1,4 @@
-# Arabic Named Entity Recognition with HuggingFace and BERT
+# Arabic Named Entity Recognition with HuggingFace and AraBERT
 
 This project demonstrates how to implement Named Entity Recognition (NER) for Arabic text using the HuggingFace Transformers library and the BERT architecture. The implementation involves loading a dataset, tokenizing and aligning labels, training a AraBERT model for token classification, evaluating the model, and deploying it using Gradio.
 
