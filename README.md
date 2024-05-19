@@ -2,6 +2,9 @@
 
 This project demonstrates how to implement Named Entity Recognition (NER) for Arabic text using the HuggingFace Transformers library and the BERT architecture. The implementation involves loading a dataset, tokenizing and aligning labels, training a AraBERT model for token classification, evaluating the model, and deploying it using Gradio.
 
+![image](https://github.com/MostafaAhmed98/arabic_named_entity/assets/90983988/c30d94db-1075-455b-b177-669aff36943f)
+
+
 ## Overview
 
 - **Dataset**: Utilizes the `conllpp-ner-ar` dataset from HuggingFace datasets.
