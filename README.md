@@ -37,6 +37,8 @@ python app.py
 
 This will launch a Gradio interface in your web browser where you can input Arabic text and get Named Entity Recognition predictions.
 
+or you can access the model from HuggingFace Spaces : https://huggingface.co/spaces/MostafaAhmed98/arabic_named_entity
+
 ## Acknowledgements
 
 - HuggingFace for the `transformers` and `datasets` libraries.
